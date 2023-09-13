@@ -37,7 +37,7 @@ const sully = {
 
 ---
 <!--START_SECTION:waka-->
-**I'm an early 🐤** 
+**I'm an hard worker💻** 
 
 ```text                  
 🌞 Morning                   ██░░░░░░░░░░░░░░░░░░░░░░░
@@ -47,8 +47,6 @@ const sully = {
 
 ```
 
-
-📊 **This week I spent my time on** 
 
 ```text
 ⌚︎ Timezone: Central America
