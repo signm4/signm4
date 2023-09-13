@@ -1,16 +1,74 @@
-### Hi there 👋
+---
+title: signm4
+spoiler: Code Styled Readme Template
+categories: ["code-styled", "all-profile"]
+githubUsername: 'signm4'
+---
 
-<!--
-**signm4/signm4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>✌, I'm Muhammed Suleman but you can just call me Sully! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>I am a CS Grad looking to become a SWE! </a>
+</em></p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/motiwalam/)](https://www.linkedin.com/in/motiwalam/)
+
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const sully = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Python", "Java", "C++", "HTML", "CSS"],
+    askMeAbout: ["web dev", "tech", "cars"],
+    technologies: {
+        mobileApp: ["Android Studio"],
+        frontEnd: {
+            js
+            css
+        },
+        backEnd: {
+            js: ["node", "express", ],
+            python: ["flask", "react", ]
+        },
+        databases: ["mongoDB", "sqlite"],
+    },
+    currentProject: "I am developing an web app for customer loyalty",
+};
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+---
+<!--START_SECTION:waka-->
+**I'm an early 🐤** 
+
+```text                  
+🌞 Morning                   ██░░░░░░░░░░░░░░░░░░░░░░░
+🌆 Daytime                   ██████████░░░░░░░░░░░░░░░  
+🌃 Evening                   ████████░░░░░░░░░░░░░░░░░   
+🌙 Night                     ████░░░░░░░░░░░░░░░░░░░░░    
+
+```
+
+
+📊 **This week I spent my time on** 
+
+```text
+⌚︎ Timezone: Central America
+
+💬 Languages: 
+JavaScript                                   ███████░░░░░░░░░░░░░░░░░░   29.7% 
+Python                                       ████████████████████░░░░░   76.23%
+C++                                          ███████████░░░░░░░░░░░░░░   42.7%
+Markdown                                     ██░░░░░░░░░░░░░░░░░░░░░░░   10.46% 
+YAML                                         ██░░░░░░░░░░░░░░░░░░░░░░░   8.74%
+
+💻 Operating Systems: 
+MacOS                                        █████████████████████░░░░░░   80.0%
+
+```
+
+
+<!--END_SECTION:waka-->
+
