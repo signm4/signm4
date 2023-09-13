@@ -24,8 +24,9 @@ const sully = {
     technologies: {
         mobileApp: ["Android Studio"],
         frontEnd: {
-            js
-            css
+            js: ["react"]
+            HTML
+            CSS
         },
         backEnd: {
             js: ["node", "express", ],
