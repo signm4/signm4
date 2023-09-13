@@ -11,7 +11,7 @@ githubUsername: 'signm4'
 </em></p>
 
 
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/motiwalam/)](https://www.linkedin.com/in/motiwalam/)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-Muhammed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/motiwalam/)](https://www.linkedin.com/in/motiwalam/)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
